@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/FlaretheKitsune/MyCustomYugiohCards",
+  "repo_name": "My Custom Cards",
+  "repo_path": "./repositories/my-custom-cards",
+  "has_core": false,
+  "data_path": "",
+  "script_path": "script",
+  "should_update": true,
+  "should_read": true
+}
